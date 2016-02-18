@@ -1,4 +1,4 @@
-# Mouamle Math stuff(https://telegram.me/Mouamle) 
+# [Mouamle Math stuff] (https://telegram.me/Mouamle) 
 just a small repository that i share all of my math and physics solving functions in it :)
 
 # what's that ? 
