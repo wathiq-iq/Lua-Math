@@ -1,6 +1,7 @@
+-- return un with explanation :)
 function solve(a, n, d)
   t = {}
-  for i = a, n*d, d  do
+  for i = a, n+a, d  do
     table.insert(t, i)
   end
   tempstr = ""
@@ -11,11 +12,17 @@ function solve(a, n, d)
   return tempstr .. "\n" .. "The value when n = { " .. n .. " } is:" .. Un;
 end
 
--- example :
---[[
-print(solve(7, 6, -3))
-    output{
-        | 7 | | 4 | | 1 | | -2 | | -5 | | -8 | | -11 | | -14 | | -17 |
-        The value when n = { 6 } is: { -8 }
-    }
-]]
+
+-- return Un
+function findUn(a, n, d)
+  -- Un = a + (n-1) * d
+  Un = a + (n-1) * d
+  return Un;
+end
+
+-- return a
+function findA(Un, n, d)
+  -- Un = a + (n-1) * d
+  a = Un - (n-1) * d
+  return a;
+end
