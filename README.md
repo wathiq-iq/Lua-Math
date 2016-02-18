@@ -10,9 +10,10 @@ for now there is just the one math file that have some Arithmetic progression fu
 * **solve(a, n, d) -- return long nice string :)**
 
 # info about me
-My name is Mouamle in arabic { مؤمل } 
->I'm 17 years old :)
+My name is Mouamle in arabic { مؤمل } and i'm 17 years old
 
->I was learning lua for 3 years and i start playing with bots since 1 month
->Programming languages that i know :
->Java, Lua, C, C++, Javascript
+I was learning lua for 3 years and i start playing with bots since 1 month
+
+Programming languages that i know :
+
+Java, Lua, C, C++, Javascript
