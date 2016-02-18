@@ -5,8 +5,8 @@ just a small repository that i share all of my math and physics solving function
 for now there is just the one math file that have some Arithmetic progression functions
 
 # Functions list
->* **getUn(a, n, d) -- return Un as numbe**
->* **geta(Un, n, d) -- return a as numbe**
+>* **findUn(a, n, d) -- return Un as numbe**
+>* **finda(Un, n, d) -- return a as numbe**
 >* **solve(a, n, d) -- return long nice string :)**
 
 # info about me
